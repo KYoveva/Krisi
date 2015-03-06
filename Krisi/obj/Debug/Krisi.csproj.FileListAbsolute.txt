@@ -3,3 +3,4 @@ D:\Krisi\Telerik\C#2\Homeworks\Krisi\Krisi\bin\Krisi.pdb
 D:\Krisi\Telerik\C#2\Homeworks\Krisi\Krisi\obj\Debug\Krisi.csprojResolveAssemblyReference.cache
 D:\Krisi\Telerik\C#2\Homeworks\Krisi\Krisi\obj\Debug\Krisi.dll
 D:\Krisi\Telerik\C#2\Homeworks\Krisi\Krisi\obj\Debug\Krisi.pdb
+D:\Krisi\Telerik\C#2\Homeworks\Krisi\Krisi\bin\Pictures\Flower1.png
